@@ -2,7 +2,7 @@
     "name": "RIG MIDI OUT",
     "version": 1,
     "creationdate": 3874100431,
-    "modificationdate": 3874254739,
+    "modificationdate": 3877358197,
     "viewrect": [ 25.0, 119.0, 300.0, 500.0 ],
     "autoorganize": 1,
     "hideprojectwindow": 0,
@@ -15,7 +15,10 @@
                 "local": 1,
                 "toplevel": 1
             }
-        }
+        },
+        "media": {        },
+        "externals": {        },
+        "other": {        }
     },
     "layout": {    },
     "searchpath": {    },
